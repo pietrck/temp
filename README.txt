@@ -1,0 +1,1 @@
+Importar o arquivo config/db.sql para o banco de dados que deseja. 
